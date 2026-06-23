@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+nav{
+    color: white;
+    background-color: #6e1e1e;
+    font-size: large;
+    padding: 10px;   
+    border-radius: 8px;
+}
+
+body{
+    margin: 20px;
+    text-align: center;
+}
+
+img {
+    width: 420px;
+    margin: 0 auto;
+    border-radius: 8px;
+}
